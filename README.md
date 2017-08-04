@@ -1,2 +1,2 @@
-# fantasy-agi-custom-classes
-Collection of some custom class ideas for Fantasy Age
+# List of custom classes for Fantasy Age
+#TODO
