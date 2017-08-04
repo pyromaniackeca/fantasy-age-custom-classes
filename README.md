@@ -1,15 +1,21 @@
 # List of custom classes for Fantasy Age
-#TODO
-sword saint
 
-class: warrior
+## Warior
 
-Requirement: focus heavyblades preception 2+
+### Sword Saint
 
-up to light mail armor penalty to perception damage
+#### Requirement:
 
-Novice while using "your sword" -1 for lighntning atack piercing atack disarm
+- focus: heavy blades, perception 2+
+- Armor: Light mail or lower, armor penalty is retracted from perception damage
 
-Journeyman you can add perception to dmg
+#### Traits and abilities:
+- Novice: While using heavy blade -1 for lightning attack, piercing attack and disarm
 
-Master +2 to intimidate if you use sword; you can use defend as minor action i skirmish -1
+- Journeyman: Add perception to damage
+
+- Master: +2 to intimidate when using heavy blade, defend can be used as minor action, skirmish -1
+
+## Mage
+
+## Rouge
