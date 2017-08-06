@@ -18,4 +18,23 @@
 
 ## Mage
 
+### Bard
+
+#### Requirement:
+
+- comunication 2+, talent music novice
+
+#### Traits and abilities:
+
+- Novice: archane device becomes instrument; when casting spell while playing recives bonus:
+                *attack - might (+1dmg/1round)
+                *defens - aegis (+1defens/1round)
+                *enhancment - spirit (+1SP/1round)
+                *utility - inspiration (+2test/round)
+
+- Journeyman: add performance to Animal Handling,Bargaining,Deception,Etiquette,Leadership,Persuasion,Seduction
+              sonic archane blast no dmg -2test/1round
+
+- Master: bonus from novice becoms /2rounds
+
 ## Rouge
