@@ -22,7 +22,8 @@
 
 #### Requirement:
 
-- comunication 2+, talent music novice
+- focus: comunication 2+
+- talent: music novice
 
 #### Traits and abilities:
 
@@ -32,8 +33,8 @@
                 *enhancment - spirit (+1SP/1round)
                 *utility - inspiration (+2test/round)
 
-- Journeyman: add performance to Animal Handling,Bargaining,Deception,Etiquette,Leadership,Persuasion,Seduction
-              sonic archane blast no dmg -2test/1round
+- Journeyman: add performance to Animal Handling, Bargaining, Deception, Etiquette, Leadership, Persuasion, Seduction
+              sonic arcane blast no dmg -2test/1round
 
 - Master: bonus from novice becoms /2rounds
 
