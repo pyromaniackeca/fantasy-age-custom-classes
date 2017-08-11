@@ -6,7 +6,8 @@
 
 #### Requirement:
 
-- focus: heavy blades, perception 2+
+- Focus: heavy blades
+- Abilities: perception 2+
 - Armor: Light mail or lower, armor penalty is retracted from perception damage
 
 #### Traits and abilities:
@@ -22,8 +23,8 @@
 
 #### Requirement:
 
-- focus: comunication 2+
-- talent: music novice
+- Abilities: comunication 2+
+- Talent: music novice
 
 #### Traits and abilities:
 
