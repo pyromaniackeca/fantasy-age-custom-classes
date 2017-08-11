@@ -6,7 +6,8 @@
 
 #### Requirement:
 
-- focus: heavy blades, perception 2+
+- Focus: heavy blades
+- Abilities: perception 2+
 - Armor: Light mail or lower, armor penalty is retracted from perception damage
 
 #### Traits and abilities:
@@ -22,7 +23,8 @@
 
 #### Requirement:
 
-- comunication 2+, talent music novice
+- Abilities: comunication 2+
+- Talent: music novice
 
 #### Traits and abilities:
 
@@ -32,8 +34,8 @@
                 *enhancment - spirit (+1SP/1round)
                 *utility - inspiration (+2test/round)
 
-- Journeyman: add performance to Animal Handling,Bargaining,Deception,Etiquette,Leadership,Persuasion,Seduction
-              sonic archane blast no dmg -2test/1round
+- Journeyman: add performance to Animal Handling, Bargaining, Deception, Etiquette, Leadership, Persuasion, Seduction
+              sonic arcane blast no dmg -2test/1round
 
 - Master: bonus from novice becoms /2rounds
 
